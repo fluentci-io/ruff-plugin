@@ -52,7 +52,6 @@ Github Actions:
     plugin: ruff
     args: |
       setup
-    working-directory: example
 - name: Show ruff version
   run: |
     type ruff
