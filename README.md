@@ -1,5 +1,6 @@
 # Ruff Plugin
 
+[![fluentci pipeline](https://shield.fluentci.io/x/ruff)](https://pkg.fluentci.io/ruff)
 [![ci](https://github.com/fluentci-io/ruff-plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/fluentci-io/ruff-plugin/actions/workflows/ci.yml)
 
 This plugin sets up your CI/CD pipeline with a specific version of [ruff](https://github.com/astral-sh/ruff).
